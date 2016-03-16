@@ -19,7 +19,7 @@ Tested in Debian 8.3 Jessie Cinnamon
 ******
 Install:
 -------
-1- Extract the zip file anywhere;
+ Extract the zip file anywhere;
 
 - To Gnome workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
 
@@ -27,7 +27,7 @@ Install:
 
 - To all workspaces and users, move as root the folders created in the last extraction to /usr/share/icons;
 **********
-Change blue folder (manually,no script):
+(b)Change blue folder(/b) (manually,no script):
 open folders(inside Lila_Blue): apps, actions and places
 copy the blue icons, and paste them into their theme folders (Lila-HD)
 

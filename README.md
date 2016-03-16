@@ -27,13 +27,18 @@ Install:
 
 - To all workspaces and users, move as root the folders created in the last extraction to /usr/share/icons;
 **********
-Request icons and report bug in comment .
+Change blue folder (manually,no script):
+open folders(inside Lila_Blue): apps, actions and places
+copy the blue icons, and paste them into their theme folders (Lila-HD)
+
+**********
+Request icons and report bug in comment or in Github.
 ***
 Contribute in Github:
 github.com/ilnanny/Lila-HD
 
 ***
-Video : www.youtube.com/watch?v=oF1cSR…
+Video Demo: https://www.youtube.com/watch?v=oF1cSRwulas
 ***
 Donate:
 

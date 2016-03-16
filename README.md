@@ -27,7 +27,7 @@ Install:
 
 - To all workspaces and users, move as root the folders created in the last extraction to /usr/share/icons;
 **********
-(b)Change blue folder(/b) (manually,no script):
+Change blue folder (manually,no script):
 open folders(inside Lila_Blue): apps, actions and places
 copy the blue icons, and paste them into their theme folders (Lila-HD)
 

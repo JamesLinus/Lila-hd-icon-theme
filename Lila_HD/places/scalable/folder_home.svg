@@ -14,8 +14,8 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="home.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-home.svg">
   <script
      xlink:href=""
      id="script2985" />
@@ -440,13 +440,13 @@
     <linearGradient
        id="linearGradient3872-8">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3874-6" />
       <stop
          id="stop3880-8"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -485,13 +485,13 @@
     <linearGradient
        id="linearGradient3414-0">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3416-7" />
       <stop
          id="stop3418-6"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -642,9 +642,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5"
-     inkscape:cx="45.3954"
-     inkscape:cy="32"
+     inkscape:zoom="2.886432"
+     inkscape:cx="30.880567"
+     inkscape:cy="32.173224"
      inkscape:current-layer="g5317"
      showgrid="true"
      inkscape:document-units="px"
@@ -690,11 +690,11 @@
          id="path3895"
          inkscape:connector-curvature="0" />
       <path
-         transform="matrix(1.1232873,0,0,1.1364669,-5.609377,-9.9241271)"
          inkscape:connector-curvature="0"
          id="rect2419-1"
          d="m 84,4.50005 -72,0 c -3.324,0 -6,2.676 -6,6 l 0,72 c 0,3.324 2.676,6 6,6 l 72,0 c 3.324,0 6,-2.676 6,-6 l 0,-72 c 0,-3.324 -2.676,-6 -6,-6 z"
-         style="fill:url(#radialGradient3883);fill-opacity:1;fill-rule:nonzero;stroke:#6f5327;stroke-width:0.30000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="fill:url(#radialGradient3883);fill-opacity:1;fill-rule:nonzero;stroke:#6f5327;stroke-width:0.30000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         transform="matrix(1.1232873,0,0,1.1364669,-5.609377,-9.9241271)" />
       <g
          transform="matrix(0,-1.1066901,1.1232873,0,-1.1162278,204.44378)"
          id="g4855">

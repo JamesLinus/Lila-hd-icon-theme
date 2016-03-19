@@ -14,8 +14,8 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="folder-development.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-tar.svg">
   <script
      xlink:href=""
      id="script2985" />
@@ -34,13 +34,13 @@
     <linearGradient
        id="linearGradient3872">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3874" />
       <stop
          id="stop3880"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -79,13 +79,13 @@
     <linearGradient
        id="linearGradient3414">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3416" />
       <stop
          id="stop3418"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -246,9 +246,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6875"
-     inkscape:cx="25.651684"
-     inkscape:cy="23.831367"
+     inkscape:zoom="6.9583333"
+     inkscape:cx="48"
+     inkscape:cy="47.928144"
      inkscape:current-layer="g3367"
      showgrid="true"
      inkscape:document-units="px"
@@ -272,7 +272,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

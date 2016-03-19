@@ -14,13 +14,35 @@
    height="96"
    id="svg3164"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="grey-folder.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-open.svg"
    inkscape:export-filename="/home/ilnanny/Scrivania/5656.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
      id="defs3166">
+    <linearGradient
+       id="linearGradient18898">
+      <stop
+         style="stop-color:#146dd0;stop-opacity:1"
+         offset="0"
+         id="stop18900" />
+      <stop
+         id="stop18902"
+         offset="1"
+         style="stop-color:#0f6bd2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18892">
+      <stop
+         style="stop-color:#146dd1;stop-opacity:1"
+         offset="0"
+         id="stop18894" />
+      <stop
+         id="stop18896"
+         offset="1"
+         style="stop-color:#0f6bd2;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4012">
       <stop
@@ -496,7 +518,7 @@
        y2="84.062775" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4049"
+       xlink:href="#linearGradient18898"
        id="radialGradient4018"
        cx="48.308414"
        cy="46.87989"
@@ -507,7 +529,7 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4049"
+       xlink:href="#linearGradient18892"
        id="radialGradient4020"
        cx="48"
        cy="46.50005"
@@ -564,8 +586,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5"
-     inkscape:cx="-13.149657"
+     inkscape:zoom="1.8368204"
+     inkscape:cx="-35.95868"
      inkscape:cy="53.275898"
      inkscape:current-layer="g3859"
      showgrid="true"
@@ -584,7 +606,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -611,11 +633,11 @@
            id="path3895"
            inkscape:connector-curvature="0" />
         <path
-           transform="matrix(1.1232873,0,0,1.1364669,-5.609377,-9.9241271)"
            inkscape:connector-curvature="0"
            id="rect2419-1"
            d="m 84,4.50005 -72,0 c -3.324,0 -6,2.676 -6,6 l 0,72 c 0,3.324 2.676,6 6,6 l 72,0 c 3.324,0 6,-2.676 6,-6 l 0,-72 c 0,-3.324 -2.676,-6 -6,-6 z"
-           style="fill:url(#radialGradient4020);fill-opacity:1.0;fill-rule:nonzero;stroke:#6d6d6d;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:url(#radialGradient4020);fill-opacity:1.0;fill-rule:nonzero;stroke:#6d6d6d;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           transform="matrix(1.1232873,0,0,1.1364669,-5.609377,-9.9241271)" />
         <g
            transform="matrix(0,-1.1066901,1.1232873,0,-1.1162278,204.44378)"
            id="g4855">

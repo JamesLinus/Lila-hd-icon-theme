@@ -14,7 +14,7 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-ubuntu.svg">
   <script
      xlink:href=""
@@ -34,13 +34,13 @@
     <linearGradient
        id="linearGradient3872">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3874" />
       <stop
          id="stop3880"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -79,13 +79,13 @@
     <linearGradient
        id="linearGradient3414">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3416" />
       <stop
          id="stop3418"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -246,10 +246,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.75"
-     inkscape:cx="-45.257407"
-     inkscape:cy="24.013185"
-     inkscape:current-layer="g19091"
+     inkscape:zoom="2.0410156"
+     inkscape:cx="7.4990891"
+     inkscape:cy="24.258161"
+     inkscape:current-layer="g3367"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"

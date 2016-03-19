@@ -14,8 +14,8 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="folder-public.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-publicshare.svg">
   <script
      xlink:href=""
      id="script2985" />
@@ -46,13 +46,13 @@
     <linearGradient
        id="linearGradient3872">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3874" />
       <stop
          id="stop3880"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -91,13 +91,13 @@
     <linearGradient
        id="linearGradient3414">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3416" />
       <stop
          id="stop3418"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -278,9 +278,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8890873"
-     inkscape:cx="26.665578"
-     inkscape:cy="44.401746"
+     inkscape:zoom="4.0820313"
+     inkscape:cx="34.310784"
+     inkscape:cy="44.524234"
      inkscape:current-layer="g3367"
      showgrid="true"
      inkscape:document-units="px"
@@ -501,11 +501,11 @@
          sodipodi:cy="53.95929"
          sodipodi:rx="3.7283812"
          sodipodi:ry="3.7283812"
-         d="m 47.569003,53.95929 a 3.7283812,3.7283812 0 1 1 -7.456762,0 3.7283812,3.7283812 0 1 1 7.456762,0 z"
+         d="m 47.569003,53.95929 a 3.7283812,3.7283812 0 0 1 -3.728381,3.728381 3.7283812,3.7283812 0 0 1 -3.728381,-3.728381 3.7283812,3.7283812 0 0 1 3.728381,-3.728382 3.7283812,3.7283812 0 0 1 3.728381,3.728382 z"
          transform="matrix(1.0073946,0,0,1.0191588,-2.6368374,-10.714993)" />
       <path
          transform="matrix(1.0073946,0,0,1.0191588,0.98959809,-3.9015354)"
-         d="m 47.569003,53.95929 a 3.7283812,3.7283812 0 1 1 -7.456762,0 3.7283812,3.7283812 0 1 1 7.456762,0 z"
+         d="m 47.569003,53.95929 a 3.7283812,3.7283812 0 0 1 -3.728381,3.728381 3.7283812,3.7283812 0 0 1 -3.728381,-3.728381 3.7283812,3.7283812 0 0 1 3.728381,-3.728382 3.7283812,3.7283812 0 0 1 3.728381,3.728382 z"
          sodipodi:ry="3.7283812"
          sodipodi:rx="3.7283812"
          sodipodi:cy="53.95929"

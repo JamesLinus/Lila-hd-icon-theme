@@ -14,13 +14,24 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="setting.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-system.svg">
   <script
      xlink:href=""
      id="script2985" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient18916">
+      <stop
+         id="stop18918"
+         offset="0"
+         style="stop-color:#2980e2;stop-opacity:1" />
+      <stop
+         style="stop-color:#146aca;stop-opacity:1"
+         offset="1"
+         id="stop18920" />
+    </linearGradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3872"
@@ -34,13 +45,13 @@
     <linearGradient
        id="linearGradient3872">
       <stop
-         style="stop-color:#e28929;stop-opacity:1;"
+         style="stop-color:#2980e2;stop-opacity:1"
          offset="0"
          id="stop3874" />
       <stop
          id="stop3880"
          offset="1"
-         style="stop-color:#ca7414;stop-opacity:1;" />
+         style="stop-color:#146aca;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -241,7 +252,7 @@
        r="36.915546" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3414"
+       xlink:href="#linearGradient18916"
        id="radialGradient23512"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.79447305,0,9.6350811)"
@@ -278,10 +289,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5"
-     inkscape:cx="7"
+     inkscape:zoom="1.443216"
+     inkscape:cx="-7.5148325"
      inkscape:cy="32"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g23031"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -302,7 +313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

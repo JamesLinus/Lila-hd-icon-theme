@@ -1,4 +1,4 @@
-Lila icon theme for Gnu-Linux and Unix-like O.S
+Lila HD icon theme for Gnu-Linux and Unix-like O.S
 Icons are licensed under the CREATIVE COMMONS
 Attribution-NonCommercial-NoDerivatives 4.0
 International (CC BY-NC-ND 4.0)
@@ -13,8 +13,9 @@ https://www.paypal.me/ilnanny
 The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
 Tested in Debian 8.3 Jessie Cinnamon D.E.,XFCE D.E .
 
-Install:
-  °Extract the zip file anywhere;
+<b>Install:</b>
+
+°Extract the zip file anywhere;
 
 - To Gnome,Cinnamon,Mate,XFCE workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
 
@@ -27,9 +28,9 @@ Install:
 Request icons and report bug  in Github.
 https://github.com/ilnanny/Lila-HD
 
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
 Video : https://www.youtube.com/watch?v=oF1cSRwulas
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
 Donate:
 
 PayPal:

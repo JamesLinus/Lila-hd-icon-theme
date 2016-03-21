@@ -11,7 +11,8 @@ PayPal:
 https://www.paypal.me/ilnanny
 
 The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
-Tested in Debian 8.3 Jessie Cinnamon D.E.,XFCE D.E .
+
+*Tested in Debian 8.3 Jessie Cinnamon D.E.,XFCE D.E *
 
 <b>Install:</b>
 

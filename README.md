@@ -31,6 +31,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
     sudo add-apt-repository ppa:noobslab/icons
     sudo apt-get update
     sudo apt-get install lila-hd-icons
+
 **Thanks to noobslab ** (http://www.noobslab.com/2016/03/lila-hd-icons-designed-for-linuxunix.html)
 
 Request icons and report bug  in Github.

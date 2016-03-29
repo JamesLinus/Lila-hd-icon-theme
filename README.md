@@ -56,7 +56,8 @@ http://gnome-look.org/content/show.php/Lila+HD?content=175412
 
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Lila HD</span> di <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Cristian Pozzessere</span> It is distributed with License <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Lila HD icon theme</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Cristian Pozzessere</span> 
+It is distributed with License <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
 </a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"></a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution - Noncommercial - No derivative works 4.0 International

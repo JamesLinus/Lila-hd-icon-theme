@@ -243,7 +243,7 @@
        x2="-8.7596264"
        y2="30.070206"
        id="linearGradient4156"
-       xlink:href="#linearGradient3414"
+       xlink:href="#linearGradient6711-3"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.9955406,0,0,1.9955406,95.19107,14.107146)" />
     <linearGradient
@@ -307,7 +307,7 @@
        inkscape:collect="always" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6711-3"
+       xlink:href="#linearGradient3414"
        id="radialGradient3863"
        cx="48.308414"
        cy="46.87989"
@@ -318,7 +318,7 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6711-3"
+       xlink:href="#linearGradient3414"
        id="radialGradient3865"
        cx="48"
        cy="46.50005"
@@ -328,7 +328,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3872"
+       xlink:href="#linearGradient6711-3"
        id="linearGradient3873"
        x1="66.157661"
        y1="72.645119"
@@ -370,8 +370,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0195313"
-     inkscape:cx="-69.667465"
+     inkscape:zoom="4.0390626"
+     inkscape:cx="62.788211"
      inkscape:cy="23.831367"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -382,7 +382,7 @@
      guidetolerance="1"
      objecttolerance="1"
      inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-height="963"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -420,7 +420,7 @@
          d="m 89.323764,-5.4884044 -82.0307014,0 c -3.7870841,0 -6.8358918,3.0844114 -6.8358918,6.9157208 l 0,82.9886496 c 0,3.831309 3.0488077,6.91572 6.8358918,6.91572 l 82.0307014,0 c 3.787084,0 6.835892,-3.084411 6.835892,-6.91572 l 0,-82.9886496 c 0,-3.8313094 -3.048808,-6.9157208 -6.835892,-6.9157208 z"
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
       <path
-         style="fill:url(#radialGradient3865);fill-opacity:1;fill-rule:nonzero;stroke:#27506f;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:url(#radialGradient3865);fill-opacity:1;fill-rule:nonzero;stroke:#6f5727;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 84,4.50005 -72,0 c -3.324,0 -6,2.676 -6,6 l 0,72 c 0,3.324 2.676,6 6,6 l 72,0 c 3.324,0 6,-2.676 6,-6 l 0,-72 c 0,-3.324 -2.676,-6 -6,-6 z"
          id="rect2419-1"
          inkscape:connector-curvature="0"
@@ -494,7 +494,7 @@
          inkscape:connector-curvature="0"
          id="path4187"
          d="m 1.3749267,78.81332 c 0,2.948521 3.0632689,5.322238 6.8683145,5.322238 l 80.1303458,0 c 3.805047,0 6.868313,-2.373717 6.868313,-5.322238 l 0,-54.996459 c 0,-2.94852 -3.063266,-5.322238 -6.868313,-5.322238 l -43.713966,0 -4.721965,-6.098396 C 38.777266,10.736876 36.508074,9.6242265 33.892108,9.6242265 l -25.6488668,0 c -3.8050456,0 -6.8683145,2.3737185 -6.8683145,5.3222375 z"
-         style="fill:url(#radialGradient3863);fill-opacity:1;fill-rule:nonzero;stroke:#27506f;stroke-width:0.30871602999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="fill:url(#radialGradient3863);fill-opacity:1;fill-rule:nonzero;stroke:#6f5727;stroke-width:0.30871602999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
       <path
          style="opacity:0.53793102;fill:url(#linearGradient3889);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
          d="m 1.3749279,78.340871 c 0,2.95045 3.06327,5.32572 6.868315,5.32572 l 80.1303411,0 c 3.805048,0 6.868315,-2.37527 6.868315,-5.32572 l 0,-55.032457 c 0,-2.95045 -3.063267,-5.325722 -6.868315,-5.325722 l -43.713962,0 -4.721965,-6.10239 C 38.777266,10.219865 36.508074,9.1064871 33.892109,9.1064871 l -25.6488661,0 c -3.805045,0 -6.868315,2.3752729 -6.868315,5.3257239 z"

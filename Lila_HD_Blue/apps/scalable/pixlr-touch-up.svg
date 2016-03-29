@@ -339,31 +339,31 @@
       <stop
          id="stop5707"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.71176469;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.05"
          id="stop5709" />
       <stop
          id="stop5711"
          offset="0.1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.13793103;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="0.5"
          id="stop5713" />
       <stop
          id="stop5715"
          offset="0.89999998"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.94999999"
          id="stop5717" />
       <stop
          id="stop5719"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.71764708;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -934,14 +934,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.2484023"
-     inkscape:cx="77.145129"
+     inkscape:cx="33.717038"
      inkscape:cy="46.116212"
      inkscape:document-units="px"
      inkscape:current-layer="g4626"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-height="963"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -953,7 +953,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1145,7 +1145,7 @@
             </g>
           </g>
           <path
-             style="opacity:0.38910506;fill:url(#linearGradient4424);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+             style="opacity:0.22519084;fill:url(#linearGradient4424);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
              d="m 87.128751,1.0402549 -78.5454561,0 c -3.626182,0 -6.545455,2.920386 -6.545455,6.547954 l 0,78.5754001 c 0,3.62757 2.919273,6.54795 6.545455,6.54795 l 78.5454561,0 c 3.626182,0 6.545455,-2.92038 6.545455,-6.54795 l 0,-78.5754001 c 0,-3.627568 -2.919273,-6.547954 -6.545455,-6.547954 z"
              id="path4422"
              inkscape:connector-curvature="0" />
@@ -1157,7 +1157,7 @@
              sodipodi:cy="45.745815"
              sodipodi:rx="27.422073"
              sodipodi:ry="27.422073"
-             d="m 52.254938,45.745815 a 27.422073,27.422073 0 1 1 -54.8441466,0 27.422073,27.422073 0 1 1 54.8441466,0 z"
+             d="m 52.254938,45.745815 c 0,15.144793 -12.27728,27.422074 -27.422073,27.422074 -15.1447932,0 -27.4220736,-12.277281 -27.4220736,-27.422074 0,-15.144793 12.2772804,-27.422073 27.4220736,-27.422073 15.144793,0 27.422073,12.27728 27.422073,27.422073 z"
              transform="matrix(1.1748334,0,0,1.1719757,18.799121,-8.6129978)" />
         </g>
       </g>

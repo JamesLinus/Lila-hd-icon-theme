@@ -1,4 +1,8 @@
 Lila HD icon theme for Gnu-Linux and Unix-like O.S
+
+<img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila%20HD%20icon%20theme%20screenshot.jpg?raw=true" alt="Lila HD icon Theme Master">
+
+
 Icons are licensed under the CREATIVE COMMONS
 Attribution-NonCommercial-NoDerivatives 4.0
 International (CC BY-NC-ND 4.0)
@@ -37,7 +41,6 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 Request icons and report bug  in Github.
 https://github.com/ilnanny/Lila-HD
 
-
 Video : https://www.youtube.com/watch?v=oF1cSRwulas
 
 Donate:
@@ -59,7 +62,4 @@ http://gnome-look.org/content/show.php/Lila+HD?content=175412
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution - Noncommercial - No derivative works 4.0 International
 </a>.
 
---------------------------------------------------------
-<b> BLUE FOLDER PACKAGE </b> 
 
-http://fav.me/d9vp0vq

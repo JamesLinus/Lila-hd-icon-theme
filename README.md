@@ -16,22 +16,22 @@ https://www.paypal.me/ilnanny
 
 The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
 
-*Tested in Debian 8.3 Jessie Cinnamon D.E.,XFCE D.E *
+*Tested in Debian 8.3 Jessie whit Gnome ,Mate ,XFCE ,Cinnamon Desktop Environment*
 
 <b>Install:</b>
 
 °Extract the zip file anywhere;
 
-- To Gnome,Cinnamon,Mate,XFCE workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
+- <b>To Gnome,Cinnamon,Mate,XFCE </b>workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
 
-- To KDE workspace, go to your personal folder and enable viewing of hidden files, go to .kde/share/icons and move the folders created in the last extraction;
+- <b>To KDE </b>workspace, go to your personal folder and enable viewing of hidden files, go to .kde/share/icons and move the folders created in the last extraction;
 
-- To KF5    go to  ~/.local/share/icons
+- <b>To KF5 </b>   go to  ~/.local/share/icons
 
-- To all workspaces and users, move as root the folders created in the last extraction to /usr/share/icons;
+- <b>To all workspaces and users</b>, move as root the folders created in the last extraction to /usr/share/icons;
 
 
-- PPA for Ubuntu and Linux Mint open Terminal and paste :
+- <b>PPA for Ubuntu and Linux Mint</b> open Terminal and paste :
     sudo add-apt-repository ppa:noobslab/icons
     sudo apt-get update
     sudo apt-get install lila-hd-icons
@@ -43,10 +43,10 @@ https://github.com/ilnanny/Lila-HD
 
 Video : https://www.youtube.com/watch?v=oF1cSRwulas
 
-Donate:
+<b>Donate:</b>
 
 PayPal:
-https://www.paypal.me/ilnanny
+<b> https://www.paypal.me/ilnanny </b>
 
 Other screenshot and download :
 

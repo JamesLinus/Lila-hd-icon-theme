@@ -1,4 +1,4 @@
-Lila HD icon theme for Gnu-Linux and Unix-like O.S
+<b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
 
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila%20HD%20icon%20theme%20screenshot.jpg?raw=true" alt="Lila HD icon Theme Master">
 
@@ -11,48 +11,51 @@ Don't USE in commercial purpose !
 Give CREDIT by linking back to the creator !
 
 If you like my work, buy me a Drink.
-PayPal:
+<b>PayPal:</b>
 https://www.paypal.me/ilnanny
 
 The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
-
-*Tested in Debian 8.3 Jessie whit Gnome ,Mate ,XFCE ,Cinnamon Desktop Environment*
-
-<b>Install:</b>
-
-°Extract the zip file anywhere;
-
-- <b>To Gnome,Cinnamon,Mate,XFCE </b>workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
-
-- <b>To KDE </b>workspace, go to your personal folder and enable viewing of hidden files, go to .kde/share/icons and move the folders created in the last extraction;
-
-- <b>To KF5 </b>   go to  ~/.local/share/icons
-
-- <b>To all workspaces and users</b>, move as root the folders created in the last extraction to /usr/share/icons;
+<b>Tested in Debian 8.3 Jessie on Gnome , XFCE ,Cinnamon ,Mate</b>
 
 
-- <b>PPA for Ubuntu and Linux Mint</b> open Terminal and paste :
+Install:
+  °Extract the zip file anywhere;
+
+- To Gnome,Cinnamon,Mate,XFCE workspace, go to your personal folder and enable viewing of hidden files, move the folders created in the last extraction to ".icons" (without quotes) directory (create this if there no).
+
+- To KDE workspace, go to your personal folder and enable viewing of hidden files, go to .kde/share/icons and move the folders created in the last extraction;
+
+- To KF5    go to  ~/.local/share/icons
+
+- To all workspaces and users, move as root the folders created in the last extraction to /usr/share/icons;
+
+- <b>PPA for  Ubuntu 16.04/15.10/14.04/12.04/Linux Mint 18/17/13. </b> open Terminal and paste :
     sudo add-apt-repository ppa:noobslab/icons
     sudo apt-get update
     sudo apt-get install lila-hd-icons
 
-**Thanks to noobslab ** (http://www.noobslab.com/2016/03/lila-hd-icons-designed-for-linuxunix.html)
+**<b>Thanks to noobslab.com</b> ** (http://www.noobslab.com/2016/03/lila-hd-icons-designed-for-linuxunix.html )
 
 Request icons and report bug  in Github.
 https://github.com/ilnanny/Lila-HD
 
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 Video : https://www.youtube.com/watch?v=oF1cSRwulas
-
-<b>Donate:</b>
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Donate:
 
 PayPal:
-<b> https://www.paypal.me/ilnanny </b>
+https://www.paypal.me/ilnanny
 
 Other screenshot and download :
+
+https://sourceforge.net/projects/lila-hd-icontheme/
 
 http://kde-look.org/content/show.php/Lila+HD?content=175411
 
 http://gnome-look.org/content/show.php/Lila+HD?content=175412
+
+http://xfce-look.org/content/show.php?content=175569
 
 
 

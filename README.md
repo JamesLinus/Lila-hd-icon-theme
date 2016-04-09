@@ -39,9 +39,9 @@ Install:
 Request icons and report bug  in Github.
 https://github.com/ilnanny/Lila-HD
 
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
 Video : https://www.youtube.com/watch?v=oF1cSRwulas
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
 Donate:
 
 PayPal:

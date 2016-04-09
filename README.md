@@ -16,7 +16,7 @@ https://www.paypal.me/ilnanny
 
 The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
 <b>Tested in Debian 8.3 Jessie on Gnome , XFCE ,Cinnamon ,Mate</b>
-
+<hr></hr>
 
 Install:
   °Extract the zip file anywhere;
